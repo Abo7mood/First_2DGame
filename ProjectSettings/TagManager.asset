@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Gem
+  - Cherry
+  - Heart
+  - Spike
+  - Trap
+  - 1
+  - Wall
+  - Apple
+  - Cube
+  - Cube1
+  - Die
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - back
+  - player
+  - props
+  - camera
+  - Enemy
+  - Spike
+  - Test
+  - Hide
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 186478527
+    locked: 0
+  - name: camera
+    uniqueID: 3664800675
+    locked: 0
+  - name: props
+    uniqueID: 4258728453
+    locked: 0
